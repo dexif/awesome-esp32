@@ -55,8 +55,57 @@ here because projects port across the two rather than living on one.
 
 ## Waveshare ESP32-P4-ETH
 
-ESP32-P4 with wired Ethernet and an ESP32-C6 radio co-processor.
+ESP32-P4 with 100M Ethernet, 32 MB PSRAM, 32 MB flash, a 22-pin camera connector, USB OTG
+and a microSD slot. No radio.
 [Product page](https://www.waveshare.com/esp32-p4-eth.htm)
+
+## Waveshare ESP32-P4-NANO
+
+Small ESP32-P4 board with 100M Ethernet, an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM and a 15-pin
+camera connector.
+[Product page](https://www.waveshare.com/esp32-p4-nano.htm)
+
+## Waveshare ESP32-P4-WIFI6
+
+ESP32-P4 with an ESP32-C6 for Wi-Fi 6 and no wired port, 32 MB PSRAM, 32 MB flash and a
+15-pin camera connector.
+[Product page](https://www.waveshare.com/esp32-p4-wifi6.htm)
+
+## Waveshare ESP32-P4-WIFI6-POE-ETH
+
+ESP32-P4 with 100M Ethernet and PoE, an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM, 32 MB flash and a
+15-pin camera connector.
+[Product page](https://www.waveshare.com/esp32-p4-wifi6-poe-eth.htm)
+
+## Waveshare ESP32-P4-WIFI6-DEV-KIT
+
+ESP32-P4 dev kit with 100M Ethernet and PoE, an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM and a
+camera connector.
+[Product page](https://www.waveshare.com/esp32-p4-wifi6-dev-kit.htm)
+
+## Espressif ESP32-P4-Function-EV-Board
+
+Espressif's own ESP32-P4 board: 100M Ethernet, an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM, a
+15-pin camera connector and a MIPI-DSI display connector.
+[User guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32p4/esp32-p4x-function-ev-board/user_guide.html)
+
+## Guition ESP32-P4-M3-Dev
+
+ESP32-P4 display board that also carries 100M Ethernet, an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM
+and a camera connector.
+[Maker's page](https://github.com/guitionofficial)
+
+## DFRobot FireBeetle 2 ESP32-P4
+
+60 x 25 mm ESP32-P4 board with an ESP32-C6 for Wi-Fi 6, 32 MB PSRAM and a 15-pin camera
+connector; no wired port.
+[Product page](https://www.dfrobot.com/product-2915.html)
+
+## M5Stack Unit PoE-P4
+
+Matchbox-sized ESP32-P4 unit with 100M Ethernet and 802.3at PoE; HDMI capture comes from the
+M5Stack Add-on Display In (Lontium LT6911D) on a 24-pin flat cable.
+[Product page](https://docs.m5stack.com/en/unit/Unit_PoE-P4)
 
 ## Waveshare ESP32-P4-Module-DEV-KIT
 
